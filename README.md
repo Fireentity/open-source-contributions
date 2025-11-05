@@ -1,24 +1,16 @@
-# My Open Source Contributions to Meshery
-
-Welcome to my contribution tracker! This file is a log of my work within the Meshery and Layer5 open-source communities. Inside, you'll find a record of my involvement through "Issues" and "Pull Requests" (PRs).
+Welcome to my contribution tracker! This file is a log of my work within the Meshery and Layer5 open-source communities, plus Flutter contributions. Inside, you'll find a record of my involvement through "Issues" and "Pull Requests" (PRs).[3]
 
 For non-technical:
 
-An "Issue" can be thought of as the starting point—a task, a bug report, or an idea for a new feature or improvement. A "Pull Request" or "PR" is my proposed solution to an issue, containing the actual code or documentation I've written. This work is then reviewed by other developers before it becomes a permanent part of the project. This log helps me track my progress and showcases my commitment to this open source projects. Feel free to explore the links to see the real-world impact of these contributions!
+An "Issue" can be thought of as the starting point—a task, a bug report, or an idea for a new feature or improvement. A "Pull Request" or "PR" is my proposed solution to an issue, containing the actual code or documentation I've written. This work is then reviewed by other developers before it becomes a permanent part of the project. This log helps me track my progress and showcases my commitment to these open source projects.[3]
 
-I use specific symbols in this table to clearly indicate my role in the creation of each item.
+I use specific symbols in this table to clearly indicate my role in the creation of each item.[3]
 
-The check mark (✓) signifies an item I created. A ✓ next to an Issue means I was the one who opened the idea, bug report, or task. A ✓ next to a Pull Request (PR) means the proposed solution, code, or documentation was authored by me.
+The check mark (✓) signifies an item I created. A ✓ next to an Issue means I was the one who opened the idea, bug report, or task. A ✓ next to a Pull Request (PR) means the proposed solution, code, or documentation was authored by me.[3]
 
-The cross mark (✗) signifies an item that someone else opened, but I actively contributed to it. An ✗ next to an Issue means I worked on a task or a reported bug that was opened by another contributor. An ✗ next to a PR means I collaborated on or contributed code to a Pull Request that was initiated by someone else (for example, as a co-author).
+The cross mark (✗) signifies an item that someone else opened, but I actively contributed to it. An ✗ next to an Issue means I worked on a task or a reported bug that was opened by another contributor. An ✗ next to a PR means I collaborated on or contributed code to a Pull Request that was initiated by someone else (for example, as a co-author).[3]
 
-## Contribution Log
-
-Here is a detailed breakdown of my contributions, categorized by their current status.
-
-### ✅ Done
-
-*These are completed tasks where my contributions have been successfully integrated.*
+## Meshery Contributions
 
 | Status | Issue | Pull Request (PR) |
 | :--- | :--- | :--- |
@@ -28,21 +20,14 @@ Here is a detailed breakdown of my contributions, categorized by their current s
 | **Done** | [✓ #15879](https://github.com/meshery/meshery/issues/15879) | [✓ #15902](https://github.com/meshery/meshery/pull/15902) |
 | **Done** | [✓ #6856](https://github.com/layer5io/layer5/issues/6856) | [✓ #6920](https://github.com/layer5io/layer5/pull/6920) |
 | **Done** | [✗ #6244](https://github.com/layer5io/layer5/issues/6244), [✗ #6806](https://github.com/layer5io/layer5/issues/6806) | [✓ #6983](https://github.com/layer5io/layer5/pull/6983) |
-| **Done** | [✓ #16036](https://github.com/meshery/meshery/issues/16036) | [✓ #16235](https://github.com/meshery/meshery/pull/16235) |
-
-### ⏳ Finalizing
-
-*These contributions are in the final stages of review before being completed.*
-
-| Status | Issue | Pull Request (PR) |
-| :--- | :--- | :--- |
 | **Finalize** | [✗ #6444](https://github.com/layer5io/layer5/issues/6444) | [✓ #6923](https://github.com/layer5io/layer5/pull/6923) |
 | **Finalize** | [✗ #143](https://github.com/layer5io/layer5-academy/issues/143) | ✓ |
+| **Doing** | [✗ #6586](https://github.com/meshery/meshery/issues/6586) | [✓ #16352](https://github.com/meshery/meshery/pull/16352) |
+| **Doing** | [✓ #16036](https://github.com/meshery/meshery/issues/16036) | [✓ #16235](https://github.com/meshery/meshery/pull/16235) |
 
-### 🚧 In Progress
-
-*These are the tasks I am currently working on.*
+## Flutter Contributions
 
 | Status | Issue | Pull Request (PR) |
 | :--- | :--- | :--- |
-| **Doing** | [✗ #6586](https://github.com/meshery/meshery/issues/6586) | [✓ #16352](https://github.com/meshery/meshery/pull/16352) |
+| **Doing** | [✗ flutter/flutter#177511](https://github.com/flutter/flutter/issues/177511) | [✓ flutter/packages#10346](https://github.com/flutter/packages/pull/10346) |
+| **Doing** | [✗ flutter/flutter#174985](https://github.com/flutter/flutter/issues/174985) | ✓ |
